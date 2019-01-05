@@ -9,7 +9,7 @@ An easy to use wrapper for hand recognition, made using OpenCV.
 ## Get started
 Clone or download the repo, and then,
 ```sh
-$ cd handy-master
+$ cd human-hand-detection
 $ pip install -r requirements.txt
 $ python test.py
 ```
